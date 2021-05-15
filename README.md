@@ -28,5 +28,7 @@ This project is to sell my products
  * Client - NextJS
  * Common library
  * Independent services - node, mongo
+    * Expiration - Redis
+    * Any - Postgres
  * Event bus - NATS
  
