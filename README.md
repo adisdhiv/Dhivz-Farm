@@ -1,4 +1,4 @@
-# MyProducts
+# Dhivz Farm
 
 This project is to sell my products
 
