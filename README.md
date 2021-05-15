@@ -25,8 +25,8 @@ This project is to sell my products
  16. Option to choose to buy quantity or kg - Prorates
  
  # Architecture
- Client - NextJS
- Common library
- Independent services - node, mongo
- Event bus - NATS
+ * Client - NextJS
+ * Common library
+ * Independent services - node, mongo
+ * Event bus - NATS
  
