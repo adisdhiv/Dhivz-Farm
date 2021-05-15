@@ -18,10 +18,10 @@ This project is to sell my products
  13. Dates of people bought and add reminders for next purchase
  14. Subscription
  15. Product Page
-  1. Prebook product in growing stage
-  2. Plant growing product indicator and activity logs, ETA for yield
-  3. Add recipes with product - later
-  4. Nutritional facts about product
+     1. Prebook product in growing stage
+     2. Plant growing product indicator and activity logs, ETA for yield
+     3. Add recipes with product - later
+     4. Nutritional facts about product
  16. Option to choose to buy quantity or kg - Prorates
  
  
